@@ -1,0 +1,11 @@
+title{background: red;
+color: black}
+h1 { background: white;
+  color: black}
+
+body {
+  background-color: #DC8484;
+  background-image: url(fondo.jpg);
+  background-size: cover;
+}
+a {background: black;}
